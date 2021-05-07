@@ -1,0 +1,12 @@
+C:\Users\User\Downloads\MyTested.AspNet.TV-master\MyTested.AspNet.TV-master\src\Create Your Own Test Runner with C# Reflection\MyTestRunner.Tests\bin\Debug\netstandard2.0\MyTestRunner.Tests.deps.json
+C:\Users\User\Downloads\MyTested.AspNet.TV-master\MyTested.AspNet.TV-master\src\Create Your Own Test Runner with C# Reflection\MyTestRunner.Tests\bin\Debug\netstandard2.0\MyTestRunner.Tests.dll
+C:\Users\User\Downloads\MyTested.AspNet.TV-master\MyTested.AspNet.TV-master\src\Create Your Own Test Runner with C# Reflection\MyTestRunner.Tests\bin\Debug\netstandard2.0\MyTestRunner.Tests.pdb
+C:\Users\User\Downloads\MyTested.AspNet.TV-master\MyTested.AspNet.TV-master\src\Create Your Own Test Runner with C# Reflection\MyTestRunner.Tests\bin\Debug\netstandard2.0\MyTestRunner.Framework.dll
+C:\Users\User\Downloads\MyTested.AspNet.TV-master\MyTested.AspNet.TV-master\src\Create Your Own Test Runner with C# Reflection\MyTestRunner.Tests\bin\Debug\netstandard2.0\MyTestRunner.Framework.pdb
+C:\Users\User\Downloads\MyTested.AspNet.TV-master\MyTested.AspNet.TV-master\src\Create Your Own Test Runner with C# Reflection\MyTestRunner.Tests\obj\Debug\netstandard2.0\MyTestRunner.Tests.csprojAssemblyReference.cache
+C:\Users\User\Downloads\MyTested.AspNet.TV-master\MyTested.AspNet.TV-master\src\Create Your Own Test Runner with C# Reflection\MyTestRunner.Tests\obj\Debug\netstandard2.0\MyTestRunner.Tests.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\MyTested.AspNet.TV-master\MyTested.AspNet.TV-master\src\Create Your Own Test Runner with C# Reflection\MyTestRunner.Tests\obj\Debug\netstandard2.0\MyTestRunner.Tests.AssemblyInfo.cs
+C:\Users\User\Downloads\MyTested.AspNet.TV-master\MyTested.AspNet.TV-master\src\Create Your Own Test Runner with C# Reflection\MyTestRunner.Tests\obj\Debug\netstandard2.0\MyTestRunner.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\MyTested.AspNet.TV-master\MyTested.AspNet.TV-master\src\Create Your Own Test Runner with C# Reflection\MyTestRunner.Tests\obj\Debug\netstandard2.0\MyTestRunner.Tests.csproj.CopyComplete
+C:\Users\User\Downloads\MyTested.AspNet.TV-master\MyTested.AspNet.TV-master\src\Create Your Own Test Runner with C# Reflection\MyTestRunner.Tests\obj\Debug\netstandard2.0\MyTestRunner.Tests.dll
+C:\Users\User\Downloads\MyTested.AspNet.TV-master\MyTested.AspNet.TV-master\src\Create Your Own Test Runner with C# Reflection\MyTestRunner.Tests\obj\Debug\netstandard2.0\MyTestRunner.Tests.pdb

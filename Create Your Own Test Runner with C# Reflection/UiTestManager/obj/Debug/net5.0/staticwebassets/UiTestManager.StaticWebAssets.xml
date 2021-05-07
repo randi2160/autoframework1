@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\User\Downloads\MyTested.AspNet.TV-master\MyTested.AspNet.TV-master\src\Create Your Own Test Runner with C# Reflection\UiTestManager\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\User\Downloads\MyTested.AspNet.TV-master\MyTested.AspNet.TV-master\src\Create Your Own Test Runner with C# Reflection\UiTestManager\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>
